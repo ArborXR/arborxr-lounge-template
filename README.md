@@ -8,18 +8,14 @@
 
 Less than 100,000 polygons
 
-<img src="images/Polycount.jpg" alt="Polycount" style="width:20%;"/>
-<img src="images/Wireframe_PolyCount.jpg" alt="Wireframe" style="width:75%;"/>
+<img src="images/Polycount.jpg" alt="Polycount" style="width:20%;"/><img src="images/Wireframe_PolyCount.jpg" alt="Wireframe" style="width:75%;"/>
 
 
 ### Texture optimization: 
 
 Please map as many models as possible to a single texture. Additionally, baking the lighting into the textures would be beneficial.
 
-<img src="images/BuildingBaked.jpg" alt="BuildingBaked" style="width:22%;"/>
-<img src="images/FloorBaked.jpg" alt="FloorBaked" style="width:22%;"/>
-<img src="images/FramingBaked.jpg" alt="FramingBaked" style="width:22%;"/>
-<img src="images/LandscapeBaked.jpg" alt="LandscapeBaked" style="width:22%;"/>
+<img src="images/BuildingBaked.jpg" alt="BuildingBaked" style="width:22%;"/><img src="images/FloorBaked.jpg" alt="FloorBaked" style="width:22%;"/><img src="images/FramingBaked.jpg" alt="FramingBaked" style="width:22%;"/><img src="images/LandscapeBaked.jpg" alt="LandscapeBaked" style="width:22%;"/>
 
 ### Texture sizes: 
 Keeping the texture resolutions low with memory, loading and performance. Please optimize them accordingly.
@@ -41,9 +37,7 @@ Please try to keep the total file size smaller than 30mb. You can make it larger
 ### UV Editor
 Under the UV Editor there are up to 3 textures to assign. There is a flat texture you can use when you want to assign and bake lights. There is a baked lightmap and UV Grid. 
 
-<img src="images/UV_Grid.jpg" alt="UVGRid" style="width:30%;"/>
-<img src="images/UV_Texture.jpg" alt="FlatTextures" style="width:30%;"/>
-<img src="images/UV_Texture_Baked.jpg" alt="BakedTexture" style="width:30%;"/>
+<img src="images/UV_Grid.jpg" alt="UVGRid" style="width:30%;"/><img src="images/UV_Texture.jpg" alt="FlatTextures" style="width:30%;"/><img src="images/UV_Texture_Baked.jpg" alt="BakedTexture" style="width:30%;"/>
 
 
 
