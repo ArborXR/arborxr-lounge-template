@@ -23,11 +23,11 @@ Keeping the texture resolutions low with memory, loading and performance. Please
 
 ### Export settings: 
 
-You can choose one of the following options based on your preference.
+You can choose one of the following options based on your preference:
 
-GLTF format with separate textures and a binary file (.gltf + textures + .bin)
-GLTF format with embedded textures (.gltf with embedded textures)
-GLB format with embedded textures (.glb with embedded textures)
+- GLTF format with separate textures and a binary file (.gltf + textures + .bin)
+- GLTF format with embedded textures (.gltf with embedded textures)
+- GLB format with embedded textures (.glb with embedded textures)
 
 ### Total File Size:
 
